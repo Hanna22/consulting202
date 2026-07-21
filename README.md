@@ -1,4 +1,4 @@
-# Consultant Smart Tools
+# Consulting 202
 
 Small Python tools that take repetitive Excel work off a consultant's plate.
 
@@ -28,7 +28,7 @@ You do **not** need to know how to code to use this project. Follow the steps be
 2. Select **Download ZIP**.
 3. Open your Downloads folder.
 4. Right-click the ZIP file and select **Extract All**.
-5. Open the extracted `consultant-smart-tools` folder.
+5. Open the extracted `consulting202` folder.
 
 ### 3. Open a command window in the project folder
 
