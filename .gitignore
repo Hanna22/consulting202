@@ -1,0 +1,23 @@
+# Never commit client workbooks or generated spreadsheet output.
+*.xlsx
+*.xlsm
+*.xls
+split_excels_output/
+
+# Python creates these local files while running.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and operating systems create these local files.
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Keep credentials and machine-specific configuration private.
+.env
+.env.*
+!.env.example
+
